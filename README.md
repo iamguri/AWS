@@ -1,2 +1,2 @@
 # AWS 
-**Amazon Web Services Real-time based projects
+Amazon Web Services Real-time based projects
